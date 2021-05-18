@@ -7,7 +7,7 @@ noresidence: yes
 contentSize: even
 contactPersons:
   - id: vratislav.krejcir
-    position: Předseda MS Kroměříž
+    position: Předseda krajského sdružení
   - id: lucie.svehlikova
     position: Mediální specialistka
   - id: lucie.svehlikova
